@@ -1,4 +1,4 @@
-📊 Streamlit Exploratory Data Analysis (EDA) App
+**📊 Streamlit Exploratory Data Analysis (EDA) App**
 
 This project is an interactive EDA and ML app built with Streamlit.
 
